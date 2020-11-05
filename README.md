@@ -11,7 +11,7 @@ This Module uses built-in Node Modules. (http, crypto, Buffer)
 ## Usage
 Require the Module and set up your options.
 ```javascript
-const serapi = require("serapi");
+const serap = require("serap");
 
 const options = {
   ip: "127.0.0.1",
