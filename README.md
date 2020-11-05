@@ -1,4 +1,4 @@
-# serapi
+# serap
 
 A NodeJS Module for interacting with the Space Engineers Remote API.
 
