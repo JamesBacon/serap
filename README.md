@@ -1,6 +1,6 @@
-# Foobar
+# serapi
 
-Foobar is a Python library for dealing with word pluralization.
+A NodeJS Module for interacting with the Space Engineers Remote API.
 
 ## Installation
 ```bash
