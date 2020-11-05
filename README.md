@@ -4,7 +4,7 @@ A NodeJS Module for interacting with the Space Engineers Remote API.
 
 ## Installation
 ```bash
-npm i serapi
+npm i serap
 ```
 This Module uses built-in Node Modules. (http, crypto, Buffer)
 
