@@ -2,7 +2,7 @@
   "name": "serapi",
   "version": "1.0.0",
   "description": "A NodeJS Module for interacting with the Space Engineers Remote API",
-  "main": "serap.js",
+  "main": "serapi.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
